@@ -1,0 +1,5 @@
+C:\Users\jiri.tuma\Documents\Visual Studio 2012\Projects\Moon.Sender\Moon.Factory\bin\Debug\Moon.Factory.dll
+C:\Users\jiri.tuma\Documents\Visual Studio 2012\Projects\Moon.Sender\Moon.Factory\bin\Debug\Moon.Factory.pdb
+C:\Users\jiri.tuma\Documents\Visual Studio 2012\Projects\Moon.Sender\Moon.Factory\obj\Debug\Moon.Factory.dll
+C:\Users\jiri.tuma\Documents\Visual Studio 2012\Projects\Moon.Sender\Moon.Factory\obj\Debug\Moon.Factory.pdb
+C:\Users\jiri.tuma\Documents\Visual Studio 2012\Projects\Moon.Sender\Moon.Factory\obj\Debug\Moon.Factory.csprojResolveAssemblyReference.cache

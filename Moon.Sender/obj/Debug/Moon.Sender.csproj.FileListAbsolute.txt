@@ -1,0 +1,14 @@
+C:\Users\jiri.tuma\Documents\Visual Studio 2012\Projects\Moon.Sender\Moon.Sender\bin\Debug\Moon.Sender.dll
+C:\Users\jiri.tuma\Documents\Visual Studio 2012\Projects\Moon.Sender\Moon.Sender\bin\Debug\Moon.Sender.pdb
+C:\Users\jiri.tuma\Documents\Visual Studio 2012\Projects\Moon.Sender\Moon.Sender\bin\Debug\Moon.Cdo.dll
+C:\Users\jiri.tuma\Documents\Visual Studio 2012\Projects\Moon.Sender\Moon.Sender\bin\Debug\Moon.Cdo.pdb
+C:\Users\jiri.tuma\Documents\Visual Studio 2012\Projects\Moon.Sender\Moon.Sender\obj\Debug\Moon.Sender.csprojResolveAssemblyReference.cache
+C:\Users\jiri.tuma\Documents\Visual Studio 2012\Projects\Moon.Sender\Moon.Sender\obj\Debug\Interop.ADODB.dll
+C:\Users\jiri.tuma\Documents\Visual Studio 2012\Projects\Moon.Sender\Moon.Sender\obj\Debug\Interop.CDO.dll
+C:\Users\jiri.tuma\Documents\Visual Studio 2012\Projects\Moon.Sender\Moon.Sender\obj\Debug\Moon.Sender.csproj.ResolveComReference.cache
+C:\Users\jiri.tuma\Documents\Visual Studio 2012\Projects\Moon.Sender\Moon.Sender\obj\Debug\Moon.Sender.dll
+C:\Users\jiri.tuma\Documents\Visual Studio 2012\Projects\Moon.Sender\Moon.Sender\obj\Debug\Moon.Sender.pdb
+C:\Users\jiri.tuma\Documents\Visual Studio 2012\Projects\Moon.Sender\Moon.Sender\bin\Debug\Moon.Web.dll
+C:\Users\jiri.tuma\Documents\Visual Studio 2012\Projects\Moon.Sender\Moon.Sender\bin\Debug\Moon.Web.pdb
+C:\Users\jiri.tuma\Documents\Visual Studio 2012\Projects\Moon.Sender\Moon.Sender\bin\Debug\Moon.Factory.dll
+C:\Users\jiri.tuma\Documents\Visual Studio 2012\Projects\Moon.Sender\Moon.Sender\bin\Debug\Moon.Factory.pdb
