@@ -15,6 +15,7 @@ namespace Moon.Sender.Mail
         {
             ConfigurationFactory = configurationFactory;
             SmtpClient = new SmtpClient();
+
         }
 
         protected virtual Configuration BildConfiguration()
